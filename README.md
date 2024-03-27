@@ -1,4 +1,4 @@
-<img src="https://github.com/t0kyolover/t0kyolover/blob/main/github%20v2.gif"/>
+<img src="https://github.com/t0kyolover/t0kyolover/blob/main/github%20readme.gif"/>
 
 <!---
 t0kyolover/t0kyolover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
